@@ -1,0 +1,43 @@
+{
+  "name": "ndflow",
+  "version": "0.0.0",
+  "description": "n-dimensional network flow solver",
+  "main": "flow.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cooriented": "~0.1.0",
+    "differential": "~0.1.0",
+    "numeric": "~1.2.6",
+    "simplicial-complex": "~0.3.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/ndflow.git"
+  },
+  "keywords": [
+    "network",
+    "flow",
+    "simplicial",
+    "complex",
+    "graph",
+    "mesh",
+    "minimum",
+    "cost",
+    "linear",
+    "programming",
+    "algorithm",
+    "topology"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "f4f5824dbc33122dbabacde18e8ea60bb70fc53c"
+}
