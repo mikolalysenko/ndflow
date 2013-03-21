@@ -1,6 +1,6 @@
 ndflow
 ======
-Network flow in the nth-dimension!
+Network flow in the nth-dimension!  Basically a higher dimensional generalization of [minimum cost network flow](http://en.wikipedia.org/wiki/Minimum-cost_flow_problem).
 
 Usage
 =====
